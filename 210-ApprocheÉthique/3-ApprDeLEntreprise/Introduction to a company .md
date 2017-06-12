@@ -1,7 +1,7 @@
 # Introduction to a company 
 ## What defines a company ?
 ### Legal Structure
-A company is a voluntaru association formed and organized to carry on a business. Types of companies include sole proprietorship, limited laibility, corporation and public limited company. 
+A company is a voluntary association formed and organized to carry on a business. Types of companies include sole proprietorship, limited laibility, corporation and public limited company. 
 
 A company can be structured in different way : 
 - One Owner (Sole proprietorship)
